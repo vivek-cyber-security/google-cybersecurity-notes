@@ -1,8 +1,6 @@
-## Controls, Frameworks, and Compliance
+# Controls, Frameworks, and Compliance
 
-Security frameworks provide a structured approach to implementing a security lifecycle. A **security lifecycle** is a continuously evolving set of policies, standards, and processes used to protect organizational assets.
-
-This document explains how **security controls**, **frameworks**, and **compliance regulations (laws)** work together to minimize cybersecurity risk and ensure accountability across an organization.
+Security frameworks provide a structured approach to implementing a security lifecycle. A security lifecycle is a constantly evolving set of policies and standards. Security frameworks, controls, and compliance regulations work together to manage security and ensure everyone plays their part in minimizing risk.
 
 ---
 
@@ -10,191 +8,170 @@ This document explains how **security controls**, **frameworks**, and **complian
 
 ### CIA Triad
 
-The **Confidentiality, Integrity, and Availability (CIA) triad** is a foundational cybersecurity model used to evaluate and manage risk.
+The Confidentiality, Integrity, and Availability (CIA) triad is a model that helps organizations consider risk when setting up systems and security policies.
 
-- **Confidentiality** – Ensures that data is accessed only by authorized individuals
-- **Integrity** – Ensures that data remains accurate and unaltered
-- **Availability** – Ensures that systems and data are accessible when needed
+- **Confidentiality** – Ensures that data is accessed only by authorized users  
+- **Integrity** – Ensures that data remains accurate and trustworthy  
+- **Availability** – Ensures that systems and data are accessible when needed  
 
-These three principles guide cybersecurity professionals in designing and implementing effective security controls.
+These three principles are foundational for cybersecurity professionals when selecting appropriate security controls to mitigate threats, risks, and vulnerabilities.
 
 ---
 
 ## Security Controls
 
-- Security controls are **safeguards** designed to reduce specific security risks
-- Controls are implemented to protect against threats, vulnerabilities, and attacks
-- Controls work alongside frameworks to ensure:
-  - Security goals are met
-  - Processes are correctly implemented
-  - Regulatory requirements are satisfied
+- Security controls are safeguards designed to reduce specific security risks  
+- They are implemented alongside frameworks to:
+  - Achieve security objectives
+  - Ensure security processes are correctly followed
+  - Meet regulatory and legal compliance requirements
 
 ---
 
 ## Security Frameworks
 
-Security frameworks are **guidelines** used to design and manage cybersecurity programs. They help organizations systematically reduce risk and protect data.
+Security frameworks are guidelines used to build and maintain cybersecurity programs. They help organizations manage risks and protect data and privacy.
 
 ### Core Components of Security Frameworks
 
-- Identifying and documenting security goals
-- Establishing guidelines to achieve those goals
-- Implementing strong security processes
-- Monitoring performance and communicating results
+- Identifying and documenting security goals  
+- Setting guidelines to achieve security goals  
+- Implementing strong security processes  
+- Monitoring and communicating results  
 
 ---
 
 ## Compliance
 
-- Compliance is the process of adhering to **internal standards** and **external regulations**
-- Higher compliance alignment generally results in **lower organizational risk**
-- Compliance requirements vary depending on industry, geography, and organization type
+- Compliance is the process of following internal policies and external regulations  
+- Higher compliance alignment generally results in lower risk  
+- Compliance requirements vary by industry, organization, and region  
 
 ---
 
-## Key Frameworks, Controls, and Compliance Standards
+## Key Controls, Frameworks, and Compliance Standards
 
-### :contentReference[oaicite:0]{index=0} (NIST)
+### National Institute of Standards and Technology (NIST)
 
-- A U.S.-based agency that develops **voluntary cybersecurity frameworks**
-- Used globally to manage and reduce cybersecurity risk
-- Widely adopted across public and private sectors
-
-#### Common NIST Frameworks
-- **NIST Cybersecurity Framework (CSF)**
-- **NIST Risk Management Framework (RMF)**
+- U.S.-based organization that develops voluntary cybersecurity frameworks  
+- Used worldwide to manage and reduce cybersecurity risk  
+- Common frameworks include:
+  - NIST Cybersecurity Framework (CSF)
+  - NIST Risk Management Framework (RMF)
 
 ---
 
-### :contentReference[oaicite:1]{index=1} – :contentReference[oaicite:2]{index=2} (FERC–NERC)
+### Federal Energy Regulatory Commission – North American Electric Reliability Corporation (FERC–NERC)
 
-- Applies to organizations involved in the U.S. and North American power grid
+- Applies to organizations involved with electricity and the North American power grid  
 - Requires organizations to:
   - Prepare for cybersecurity incidents
   - Mitigate risks
-  - Report security incidents
-- Enforces **Critical Infrastructure Protection (CIP)** Reliability Standards
+  - Report security incidents  
+- Enforces Critical Infrastructure Protection (CIP) standards  
 
 ---
 
-### :contentReference[oaicite:3]{index=3} (FedRAMP®)
+### Federal Risk and Authorization Management Program (FedRAMP)
 
-- Standardizes security assessment and authorization for cloud services
-- Ensures consistency across:
-  - U.S. federal agencies
-  - Third-party cloud service providers
-- Focuses on security monitoring and risk management
+- U.S. federal program for cloud security  
+- Standardizes security assessment, authorization, and monitoring  
+- Ensures consistency across government agencies and cloud providers  
 
 ---
 
-### :contentReference[oaicite:4]{index=4} (CIS®)
+### Center for Internet Security (CIS)
 
-- A nonprofit organization providing cybersecurity best practices
-- Publishes **CIS Controls** to safeguard systems and networks
-- Offers actionable guidance for:
-  - Preventing attacks
-  - Responding to security incidents
+- Nonprofit organization providing cybersecurity best practices  
+- Publishes CIS Controls to protect systems and networks  
+- Provides guidance for preventing and responding to cyber incidents  
 
 ---
 
-### :contentReference[oaicite:5]{index=5} (GDPR)
+### General Data Protection Regulation (GDPR)
 
-- A European Union regulation protecting personal data and privacy
-- Applies to organizations handling E.U. residents’ data, even outside the E.U.
-- Key requirements:
-  - Transparency in data collection and use
-  - Breach notification within **72 hours**
-  - Informing affected individuals if their data is compromised
-- Violations can result in heavy financial penalties
-
----
-
-### :contentReference[oaicite:6]{index=6} (PCI DSS)
-
-- An international standard for organizations handling credit card data
-- Applies to storing, processing, and transmitting payment card information
-- Primary goal:
-  - Reduce credit card fraud
-  - Maintain secure payment environments
+- European Union regulation protecting personal data and privacy  
+- Applies to organizations processing data of EU residents worldwide  
+- Key requirements include:
+  - Transparency in data collection
+  - Breach notification within 72 hours
+  - Informing affected individuals  
+- Noncompliance can result in heavy fines  
 
 ---
 
-### :contentReference[oaicite:7]{index=7} (HIPAA)
+### Payment Card Industry Data Security Standard (PCI DSS)
 
-- A U.S. federal law enacted in 1996
-- Protects **Protected Health Information (PHI)**
-- PHI includes:
-  - Medical history
-  - Health conditions
-  - Treatment plans
-  - Payment information
+- International security standard for handling credit card information  
+- Applies to storing, processing, and transmitting card data  
+- Objective is to reduce credit card fraud and ensure secure transactions  
+
+---
+
+### Health Insurance Portability and Accountability Act (HIPAA)
+
+- U.S. federal law established in 1996  
+- Protects patients’ health information  
+- Prohibits sharing patient data without consent  
 
 #### HIPAA Rules
-- Privacy Rule
-- Security Rule
-- Breach Notification Rule
+- Privacy Rule  
+- Security Rule  
+- Breach Notification Rule  
 
-Organizations must notify patients if PHI is breached to prevent identity theft and insurance fraud.
-
----
-
-### :contentReference[oaicite:8]{index=8} (HITRUST®)
-
-- A security framework and assurance program
-- Helps organizations meet HIPAA compliance requirements
-- Commonly used in healthcare environments
+- Organizations must notify patients if Protected Health Information (PHI) is breached  
+- PHI includes medical history, treatment plans, and payment information  
 
 ---
 
-### :contentReference[oaicite:9]{index=9} (ISO)
+### Health Information Trust Alliance (HITRUST)
 
-- Develops international standards for:
-  - Technology
-  - Manufacturing
-  - Management systems
+- Security framework and assurance program  
+- Helps organizations meet HIPAA compliance requirements  
+- Commonly used in healthcare environments  
+
+---
+
+### International Organization for Standardization (ISO)
+
+- Develops international standards for technology and management  
 - Helps organizations improve:
-  - Processes and efficiency
-  - Service quality
-  - Planning and risk management
-  - Staff retention
+  - Operational processes
+  - Planning and efficiency
+  - Risk management
+  - Service quality  
 
 ---
 
-### :contentReference[oaicite:10]{index=10} (AICPA) – SOC Reports
+### System and Organization Controls (SOC 1 and SOC 2)
 
-- Developed **System and Organization Controls (SOC)** reports
-- Includes:
-  - SOC 1
-  - SOC 2
-- Evaluates:
-  - Access control policies
-  - Financial compliance
-  - Risk management
+- Developed by the American Institute of Certified Public Accountants (AICPA)  
+- Used to evaluate organizational controls and financial compliance  
 
-#### SOC Coverage Areas
-- Confidentiality
-- Privacy
-- Integrity
-- Availability
-- Security
-- Data protection
+#### Coverage Areas
+- Confidentiality  
+- Privacy  
+- Integrity  
+- Availability  
+- Security  
+- Data protection  
 
-Control failures may lead to fraud and regulatory violations.
+Control failures can result in fraud and increased risk.
 
 ---
 
 ## Pro Tip
 
-Cybersecurity regulations and standards are frequently updated. Security professionals should stay current and explore additional regulations such as:
+Cybersecurity regulations and standards are frequently updated. Security professionals should stay informed and explore additional laws such as:
 
-- Gramm-Leach-Bliley Act (GLBA)
-- Sarbanes-Oxley Act (SOX)
+- Gramm-Leach-Bliley Act (GLBA)  
+- Sarbanes-Oxley Act (SOX)  
 
 ---
 
 ## Key Takeaways
 
-- Security controls, frameworks, and compliance work together to reduce risk
-- Frameworks provide structure, controls enforce protection, and compliance ensures accountability
-- Staying informed about evolving regulations is essential for cybersecurity professionals
-- Strong knowledge of frameworks and compliance standards helps protect both organizations and individuals
+- Controls, frameworks, and compliance work together to reduce cybersecurity risk  
+- Frameworks provide structure, controls enforce protection, and compliance ensures accountability  
+- Staying up to date with standards and regulations is essential for security analysts  
+- Strong governance helps protect organizations and individuals  
