@@ -39,7 +39,7 @@ Not modifying exam results or company records.
 - Avoid actions that cause service disruption
 
 **Example:**  
-Not launching denial-of-service attacks.
+Not launching denial-of-service attacks
 
 ---
 
