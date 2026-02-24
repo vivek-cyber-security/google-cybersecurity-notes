@@ -1,7 +1,7 @@
 # Google Cybersecurity Notes
 
 This repository contains my learning notes from the
-Google Cybersecurity Professional Certificate.
+Google Cybersecurity Professional Certificate
 
 ## Topics Covered
 - Cybersecurity fundamentals
