@@ -9,7 +9,7 @@ networks, and security tools.
 Soft skills help in communication,
 problem solving, and teamwork.
 
-## Technical Skills
+## Technical Skills.
 
 Technical skills include understanding
 how computers, networks, and software work.
