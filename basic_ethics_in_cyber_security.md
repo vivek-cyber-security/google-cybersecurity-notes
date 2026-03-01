@@ -9,7 +9,7 @@ Cyber security ethics refers to the moral principles and rules that guide the be
 - Protects user privacy
 - Prevents misuse of information
 - Builds trust between users and organizations
-- Ensures legal and responsible behavior
+- Ensures legal and responsible behavior.
 
 ---
 
