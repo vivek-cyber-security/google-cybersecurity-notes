@@ -7,7 +7,7 @@
 - Attackers send fake emails or messages
 - They try to make the user click a malicious link
 - The goal is to steal passwords, OTP, bank details or personal data
-- Phishing mostly targets human mistakes
+- Phishing mostly targets human mistakes.
 
 ## Types of Phishing
 
