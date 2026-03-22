@@ -2,8 +2,7 @@
 
 Security frameworks provide a structured approach to implementing a security lifecycle. A security lifecycle is a constantly evolving set of policies and standards. Security frameworks, controls, and compliance regulations work together to manage security and ensure everyone plays their part in minimizing risk.
 
----
-
+--
 ## How Controls, Frameworks, and Compliance Are Related
 
 ### CIA Triad
